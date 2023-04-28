@@ -1,7 +1,8 @@
-@media screen and (max-width: 700px) {
+@media (max-width: 800px) {
     nav {
       > h1 {
         display: none;
+        color: aqua;
       }
       > main {
         width: 100%;
